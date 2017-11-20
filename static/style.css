@@ -1,0 +1,9 @@
+*{
+	padding:0;
+	margin:0;
+}
+.paletteBC{
+	width:1000px;
+	height:1000px;
+	background-color:green;
+}
